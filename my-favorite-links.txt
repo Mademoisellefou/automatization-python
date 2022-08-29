@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/60307452/pyttsx3-initialization-error-cant-use-pyttsx3
+https://medium.com/pythoneers/10-really-helpful-automation-scripts-you-need-to-try-using-python-7dda9408fa74
+https://medium.com/pythoneers/best-practices-to-follow-while-creating-classes-in-python-4497bc8535dc
